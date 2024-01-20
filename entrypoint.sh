@@ -1,4 +1,3 @@
 #!/bin/bash
-set -e
 
-echo "Nothing to process."
+echo "This is my custom action :-)"
